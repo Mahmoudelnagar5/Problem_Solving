@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
