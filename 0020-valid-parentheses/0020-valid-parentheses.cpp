@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
+         stack<char> st;
         for(char c : s){
             if(!st.empty() && (st.top() == '(' && c == ')' ||
              (st.top() == '{' && c == '}') || 
