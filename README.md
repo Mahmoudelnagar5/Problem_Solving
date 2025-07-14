@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0204-count-primes) |
+| [1603-running-sum-of-1d-array](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
