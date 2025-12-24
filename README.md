@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0412-fizz-buzz) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/0412-fizz-buzz) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mahmoudelnagar5/Problem_Solving/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
